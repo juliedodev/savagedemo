@@ -1,7 +1,5 @@
 This is an app where users can write messages to a message board and other users can dislike messages by giving a thumbs down.
 
-Link to Project: [https://savagedemo-savageauth.netlify.app/]
-
 <img src="savagedemo.png">
 
 How It's Made:
